@@ -2,7 +2,7 @@
 
 [English](README.md) · **한국어**
 
-[atc](https://github.com/chaehy5665/atc)(AI 코딩 세션 관제판)의 macOS 메뉴 막대 앱입니다. 작업 이름은 **ANNUNCIATOR**로, 조종석의 MASTER WARNING / MASTER CAUTION 경고등 패널에서 따왔습니다.
+[atc](https://github.com/c10dev/atc)(AI 코딩 세션 관제판)의 macOS 메뉴 막대 앱입니다. 작업 이름은 **ANNUNCIATOR**로, 조종석의 MASTER WARNING / MASTER CAUTION 경고등 패널에서 따왔습니다.
 
 메뉴 막대에 있다가 atc가 SUPERVISOR를 부를 때 불이 켜집니다.
 
