@@ -2,7 +2,7 @@
 
 **English** · [한국어](README.ko.md)
 
-A native macOS menu bar app for [atc](https://github.com/chaehy5665/atc), the air-traffic-control board for AI coding sessions. Working name: **ANNUNCIATOR**, after the cockpit's MASTER WARNING / MASTER CAUTION panel.
+A native macOS menu bar app for [atc](https://github.com/c10dev/atc), the air-traffic-control board for AI coding sessions. Working name: **ANNUNCIATOR**, after the cockpit's MASTER WARNING / MASTER CAUTION panel.
 
 It sits in the menu bar and lights up when atc needs the SUPERVISOR:
 
